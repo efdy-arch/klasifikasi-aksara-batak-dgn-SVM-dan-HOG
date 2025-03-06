@@ -1,0 +1,1 @@
+# klasifikasi-aksara-batak-dgn-SVM-dan-HOG
